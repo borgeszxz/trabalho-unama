@@ -9,7 +9,6 @@ Um sistema onde organizadores podem cadastrar eventos e usuários podem se inscr
 ---
 
 ## **🔗 API - Endpoints**
-Aqui estão os endpoints básicos que sua API vai precisar:
 
 ### **🔐 Autenticação (Usuários)**
 1. `POST /register` → Criar uma conta
