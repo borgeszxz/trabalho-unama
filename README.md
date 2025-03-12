@@ -2,8 +2,9 @@
 Um sistema onde organizadores podem cadastrar eventos e usuários podem se inscrever neles. Pode ser útil para palestras, workshops, shows, reuniões etc.
 
 ### **👨‍💻 Tecnologias**
-- **Backend API:** Laravel 
-- **Frontend:** PHP
+- **Framework Back end:** Laravel
+- **Back end:** PHP 
+- **Frontend:** Javascript
 - **Banco de Dados:** MySQL
 
 ---
