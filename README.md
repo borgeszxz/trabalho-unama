@@ -1,5 +1,5 @@
 ## **📌 Sistema de Reserva para Eventos**
-Um sistema onde organizadores podem cadastrar eventos e usuários podem se inscrever neles. Pode ser útil para palestras, workshops, shows, reuniões etc.
+
 
 ### **👨‍💻 Tecnologias**
 - **Framework Back end:** Laravel
