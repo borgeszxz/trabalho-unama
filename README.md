@@ -2,7 +2,7 @@
 
 
 ### **👨‍💻 Tecnologias**
-- **Framework Back end:** Laravel
+- **Framework Back end:** Slim
 - **Back end:** PHP 
 - **Frontend:** Javascript
 - **Banco de Dados:** MySQL
